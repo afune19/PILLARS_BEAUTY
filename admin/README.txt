@@ -1,0 +1,1 @@
+Email: admin@beauty.com | Password: pillars@beauty
