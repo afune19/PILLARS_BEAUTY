@@ -1,4 +1,4 @@
-<footer class="site-footer">
+ <footer class="site-footer">
   <style>
     :root {
       --beauty-main: #e91e63;
